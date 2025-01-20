@@ -62,8 +62,8 @@
 	"images":[
 		{
 			"mimeType":"image/png",
-			"name":"redisng.png",
-			"uri":"../Pictures/redisng.png"
+			"name":"redisng",
+			"uri":"Textures/redisng.png"
 		}
 	],
 	"accessors":[
